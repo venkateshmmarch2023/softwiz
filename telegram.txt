@@ -14,4 +14,4 @@ when user click's on Telegram application
                         then take a input from the user to send a message.
                  else user B account is not present,
                  then take the input from the user to send an invite to user B.
-      else display invalid phone number.
+      else display invalid phone number. 
