@@ -1,0 +1,17 @@
+when user click's on Telegram application
+ check whether user is logged
+   if the user is logged then display the home page of telegram.
+        take the input from the user to  whom  wants to send a message(user B)
+            if the user B account is already created, then display the chat box of the user B.
+                then take a input from the user to send a message.
+            else user B account is not present,
+                 then take the input from the user to send an invite to user B.
+   else take input from the user for country code and phone number from the user.
+      if user entered a correct phone numeber send a code to the user specified phone number.
+          code matches then create an account for the user and display the telegram home page.
+              take the input from the user to  whom  wants to send a message(user B)
+                 if the user B account is already created, then display the chat box of the user B.
+                        then take a input from the user to send a message.
+                 else user B account is not present,
+                 then take the input from the user to send an invite to user B.
+      else display invalid phone number.
